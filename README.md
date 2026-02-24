@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hari
 - 👀 I'm a Software Engineer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Web development, blockchain
+<!--- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on Web development, blockchain --->
 - 📫 Reach me on :
                   - Linkedin https://www.linkedin.com/in/hari-setiawan/
                   - Email haristw16@gmail.com
